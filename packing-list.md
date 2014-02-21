@@ -91,7 +91,7 @@
 
 ▢ contact lense case
 
-▢ pommade
+▢ pomade
 
 ▢ travel toothpaste
 
@@ -102,7 +102,7 @@
 
 ▢ iPod touch
 
-▢ MacBook Pro
+▢ Macbook Pro
 
 ▢ headphones
 
