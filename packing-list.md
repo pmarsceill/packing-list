@@ -102,7 +102,7 @@
 
 ▢ iPod touch
 
-▢ Macbook Pro
+▢ MacBook Pro
 
 ▢ headphones
 
