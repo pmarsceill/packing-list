@@ -1,124 +1,122 @@
 # Patrick's Packing List
 
 ## Underwear & Socks
-▢ 8 x boxer briefs
+- [ ] 8 x boxer briefs
 
-▢ 6 x pairs of black socks
+- [ ] 6 x pairs of black socks
 
-▢ 4 x pairs of fancy socks
+- [ ] 4 x pairs of fancy socks
 
-▢ 2 x wife beaters
+- [ ] 2 x wife beaters
 
-▢ 5 x white v-neck
+- [ ] 5 x white v-neck
 
 ## Pants
-▢ blue gio chinos
+- [ ] blue gio chinos
 
-▢ khaki gio chinos
+- [ ] khaki gio chinos
 
-▢ slate gio chinos
+- [ ] slate gio chinos
 
-▢ green Farah chinos
+- [ ] green Farah chinos
 
-▢ emerald Carhartt chinos
+- [ ] emerald Carhartt chinos
 
-▢ jeans
+- [ ] jeans 
 
 ## Shirts
-▢ denim ludlow dress shirt
+- [ ] denim ludlow dress shirt
 
-▢ denim cowboy shirt
+- [ ] denim cowboy shirt
 
-▢ 2 x grey chambray button down
+- [ ] 2 x grey chambray button down
 
-▢ 3 x plaid button down
+- [ ] 3 x plaid button down
 
-▢ 2 x unis t-shirts
+- [ ] 2 x unis t-shirts
 
-▢ t-shirt
+- [ ] t-shirt
 
-▢ 2 x striped henley
+- [ ] 2 x striped henley
 
-▢ heather grey henley
+- [ ] heather grey henley
 
 ## Sweaters
-▢ emerald merino v-neck
+- [ ] emerald merino v-neck
 
-▢ grey cotton/cashmere v-neck
+- [ ] grey cotton/cashmere v-neck
 
-▢ brown/blue wool pattern crew neck
+- [ ] brown/blue wool pattern crew neck
 
-▢ dark green cowl neck
+- [ ] dark green cowl neck
 
 ## Jackets
-▢ army green light jacket
+- [ ] army green light jacket
 
-▢ tweed sportcoat
+- [ ] tweed sportcoat
 
-▢ leather motorcycle jacket
+- [ ] leather motorcycle jacket
 
 ## Coats
-▢ unis black overcoat
+- [ ] unis black overcoat
 
-▢ belstaff
+- [ ] belstaff
 
 ## Shoes
-▢ redwing boots
+- [ ] redwing boots
 
-▢ common projects oxfords
+- [ ] common projects oxfords
 
-▢ vans
+- [ ] vans
 
-▢ wingtip chelsea boots
+- [ ] wingtip chelsea boots
 
 ## Accessories
-▢ leather belt
+- [ ] leather belt
 
-▢ wool tie
+- [ ] wool tie
 
-▢ tie clip
+- [ ] tie clip
 
-▢ watch
+- [ ] watch
 
-▢ bathing suit
+- [ ] bathing suit
 
 ## Dopp Kit
-▢ deodorant
+- [ ] deodorant
 
-▢ travel shave cream
+- [ ] travel shave cream
 
-▢ travel contact solution
+- [ ] travel contact solution
 
-▢ contact lense case
+- [ ] contact lense case
 
-▢ pomade
+- [ ] pomade
 
-▢ travel toothpaste
+- [ ] travel toothpaste
 
-▢ toothbrush
+- [ ] toothbrush
 
 ## Electronics
-▢ iPad mini
+- [ ] Kindle
 
-▢ iPod touch
+- [ ] Macbook Pro
 
-▢ Macbook Pro
+- [ ] headphones
 
-▢ headphones
-
-▢ thumbdrive
+- [ ] thumbdrive
 
 ## Misc
-▢ book
+- [ ] book
 
-▢ magazine
+- [ ] magazine
 
-▢ notebook
+- [ ] notebook
 
-▢ Sharpie
+- [ ] Sharpie
 
-▢ Lamy CP-1 Fountain Pen
+- [ ] Lamy CP-1 Fountain Pen
 
-▢ Lamy ink cartriges
+- [ ] Lamy ink cartriges
 
-▢ Pilot roller ball
+- [ ] Pilot roller ball
