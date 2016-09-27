@@ -3,11 +3,11 @@
 ## Underwear & Socks
 - [ ] 8 x boxer briefs
 
-- [ ] 6 x pairs of black socks
+- [ ] 2 x pairs of black socks
 
-- [ ] 4 x pairs of fancy socks
+- [ ] 2 x no-show black socks
 
-- [ ] 2 x wife beaters
+- [ ] 6 x pairs of patterned socks
 
 - [ ] 5 x white v-neck
 
@@ -24,25 +24,28 @@
 
 - [ ] jeans 
 
+- [ ] running shorts
+
 ## Shirts
 - [ ] denim ludlow dress shirt
 
 - [ ] denim cowboy shirt
 
-- [ ] 2 x grey chambray button down
+- [ ] 2 x wool button downs
 
-- [ ] 3 x plaid button down
+- [ ] 2 x cotton button downs
 
 - [ ] 2 x unis t-shirts
 
 - [ ] t-shirt
 
-- [ ] 2 x striped henley
+- [ ] 3 x henley
 
-- [ ] heather grey henley
+- [ ] 2 x thermal
+
+- [ ] 2 x workout t-shirt
 
 ## Sweaters
-- [ ] emerald merino v-neck
 
 - [ ] grey cotton/cashmere v-neck
 
@@ -50,26 +53,32 @@
 
 - [ ] dark green cowl neck
 
+- [ ] marled heather grey light sweater
+
 ## Jackets
 - [ ] army green light jacket
 
-- [ ] tweed sportcoat
-
 - [ ] leather motorcycle jacket
+
+- [ ] green shell
 
 ## Coats
 - [ ] unis black overcoat
 
 - [ ] belstaff
 
+- [ ] wool overcoat
+
 ## Shoes
 - [ ] redwing boots
 
 - [ ] common projects oxfords
 
-- [ ] vans
+- [ ] white nike sneakers
 
 - [ ] wingtip chelsea boots
+
+- [ ] running shoes
 
 ## Accessories
 - [ ] leather belt
@@ -97,14 +106,20 @@
 
 - [ ] toothbrush
 
+- [ ] facewash
+
 ## Electronics
-- [ ] Kindle
+- [ ] iPad Pro
 
 - [ ] Macbook Pro
 
 - [ ] headphones
 
-- [ ] thumbdrive
+- [ ] iPhone / iPad charger
+
+- [ ] Macbook charger
+
+- [ ] lightening cable
 
 ## Misc
 - [ ] book
